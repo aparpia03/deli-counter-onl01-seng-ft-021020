@@ -23,11 +23,7 @@ def take_a_number(katz_deli, name)
 end  
 
 def now_serving(katz_deli,name)
-  no_line = []
-  katz_deli.each do |customer|
-    no_line.push()
-    
-  end
+ 
   
 end  
 

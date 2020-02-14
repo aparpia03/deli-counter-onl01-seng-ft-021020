@@ -8,3 +8,4 @@ def line(katz_deli)
    else
      counter = 1
   katz_deli.each do |customer|
+    katz_deli.push(customer)

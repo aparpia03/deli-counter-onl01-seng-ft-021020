@@ -2,8 +2,8 @@
 katz_deli = []
 
 def line(queue_in_line)
-  if queue_in_line == katz_deli
-    return "The line is currently empty."
+  if queue_in_line == []
+    puts "The line is currently empty."
   end
 end
 

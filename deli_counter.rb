@@ -11,4 +11,4 @@ def line(katz_deli)
     queue_in_line.push("#{counter}. #{customer}"
     counter += 1
   end
-puts "The line is currently: "
+puts "The line is currently: #{"

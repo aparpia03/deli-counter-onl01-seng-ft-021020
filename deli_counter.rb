@@ -10,3 +10,4 @@ def line(katz_deli)
   katz_deli.each do |customer|
     queue_in_line.push("#{counter}. #{customer}"
     counter += 1
+  end

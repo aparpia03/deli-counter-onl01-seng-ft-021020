@@ -22,8 +22,7 @@ def take_a_number(katz_deli, name)
   puts "Welcome #{name}." "You are #{katz_deli.length} in line."
 end  
 
-binding.pry
-def now_serving(katz_deli)
+def now_serving(katz_deli,name)
   no_line = []
   katz_deli.each do |customer|
     no_line.push()

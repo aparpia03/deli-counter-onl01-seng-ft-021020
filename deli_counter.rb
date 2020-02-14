@@ -11,3 +11,4 @@ def line(katz_deli)
     queue_in_line.push("#{counter}. #{customer}"
     counter += 1
   end
+puts 

@@ -12,3 +12,5 @@ def line(katz_deli)
     counter += 1
   end
 puts "The line is currently: #{queue_in_line.join(" ")}"
+end
+end

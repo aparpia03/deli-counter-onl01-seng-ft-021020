@@ -8,4 +8,5 @@ def line(katz_deli)
    else
      counter = 1
   katz_deli.each do |customer|
-    queue_in_line.push("#{counter}"
+    queue_in_line.push("#{counter}. #{customer}"
+    counter += 1

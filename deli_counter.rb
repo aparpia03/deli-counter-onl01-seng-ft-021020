@@ -15,4 +15,7 @@ puts "The line is currently: #{queue_in_line.join(" ")}"
 end
 end
 
+def take_a_number()
+
+
 

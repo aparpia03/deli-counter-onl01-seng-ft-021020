@@ -1,5 +1,5 @@
 # Write your code here
-katz_deli = []
+=begin katz_deli = []
 
 def line(katz_deli)
    queue_in_line == []
@@ -14,3 +14,6 @@ def line(katz_deli)
 puts "The line is currently: #{queue_in_line.join(" ")}"
 end
 end
+=end 
+
+

@@ -8,7 +8,7 @@ def line(katz_deli)
    else
      counter = 1
   katz_deli.each do |customer|
-    queue_in_line.push("#{counter}. #{customer}"
+    queue_in_line.push("#{counter}. #{customer}")
     counter += 1
   end
 puts "The line is currently: #{queue_in_line.join(" ")}"
